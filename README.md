@@ -28,7 +28,7 @@
 ![MUI](https://img.shields.io/badge/-MUI-000000?style=flat&logo=mui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab)
 
 ## Github Overview
