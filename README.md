@@ -31,6 +31,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab)
 
-## Github Overview
+## GitHub Overview
 
-<img align="left" alt="XING's Github Stats" src="https://github-readme-stats.vercel.app/api?username=XING-76&show_icons=true&theme=radical" />
+<img align="left" alt="XING's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XING-76&show_icons=true&theme=radical" />
