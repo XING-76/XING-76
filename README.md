@@ -7,7 +7,7 @@
 
 ## 🌐 About Me
 
--   Name: Hsin-Ju Hsieh (XING)
+-   Name: Hsin-Ju Hsieh (Jack)
 -   Role: Software Engineer
 
 ## 🛠 Tech Stack
