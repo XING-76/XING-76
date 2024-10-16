@@ -7,8 +7,8 @@
 
 ## 🌐 About Me
 
--   Name: Hsin-Ju Hsieh (Jack)
--   Role: Software Engineer
+- Name: Hsin-Ju Hsieh (Jack)
+- Role: Software Engineer | Front-End Developer
 
 ## 🛠 Tech Stack
 
@@ -19,11 +19,13 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vuedotjs)
+![Nuxt](https://img.shields.io/badge/-Nuxt-000000?style=flat&logo=nuxt.js)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindCss)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-000000?style=flat&logo=vite)
+![Storybook](https://img.shields.io/badge/-Storybook-000000?style=flat&logo=storybook)
 ![ESLint](https://img.shields.io/badge/-ESLint-000000?style=flat&logo=ESLint)
 ![MUI](https://img.shields.io/badge/-MUI-000000?style=flat&logo=mui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
