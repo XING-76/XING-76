@@ -19,7 +19,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vuedotjs)
-![Nuxt](https://img.shields.io/badge/-Nuxt-000000?style=flat&logo=nuxt.js)
+![Nuxt](https://img.shields.io/badge/-Nuxt-000000?style=flat&logo=nuxt)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindCss)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
