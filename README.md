@@ -35,4 +35,12 @@
 
 ## GitHub Overview
 
-<img align="left" alt="XING's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XING-76&show_icons=true&theme=radical" />
+<div align="center">
+    <img alt="XING's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XING-76&show_icons=true&theme=radical"  width="60%" />
+</div>
+
+## LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/jackjohnton789?theme=dark&font=Abel" alt="LeetCode Stats" width="60%" />
+</div>
