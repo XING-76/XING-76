@@ -11,15 +11,6 @@ workflows built with LangGraph.
 
 ---
 
-## GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img src="assets/stats-light.svg" alt="GitHub activity" width="100%">
-</picture>
-
-<sub>Rendered from the GitHub API by a workflow in this repo, so it never depends on a third-party service staying up.</sub>
-
 ## Tech
 
 <table>
@@ -28,3 +19,12 @@ workflows built with LangGraph.
   <tr><td><b>Familiar</b></td><td>Express · MongoDB · Bootstrap · Shell</td></tr>
   <tr><td><b>Learning</b></td><td>Python · PostgreSQL · Docker · LangGraph · LLM agents</td></tr>
 </table>
+
+## GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" alt="GitHub activity" width="100%">
+</picture>
+
+<sub>Rendered from the GitHub API by a workflow in this repo, so it never depends on a third-party service staying up.</sub>

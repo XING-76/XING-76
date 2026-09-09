@@ -169,8 +169,8 @@ function renderCard(stats, theme) {
      instead of trailing off with dead space on the right. */
   const columns = [
     { x: PAD, anchor: 'start' },
-    { x: 300, anchor: 'start' },
-    { x: 560, anchor: 'start' },
+    { x: 241, anchor: 'start' },
+    { x: 475, anchor: 'start' },
     { x: W - PAD, anchor: 'end' },
   ];
   const items = [
