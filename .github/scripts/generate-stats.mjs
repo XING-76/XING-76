@@ -46,12 +46,13 @@ const THEMES = {
 const QUERY = `
 query($login: String!) {
   user(login: $login) {
-    followers { totalCount }
-    pullRequests(states: [OPEN, MERGED, CLOSED]) { totalCount }
     contributionsCollection {
       totalCommitContributions
       restrictedContributionsCount
       totalRepositoriesWithContributedCommits
+      contributionCalendar {
+        weeks { contributionDays { contributionCount } }
+      }
     }
     repositories(first: 100, ownerAffiliations: OWNER, isFork: false, privacy: PUBLIC) {
       totalCount
@@ -98,13 +99,16 @@ async function fetchStats() {
     .map(([name, size]) => ({ name, share: totalBytes ? size / totalBytes : 0 }));
 
   const contributions = user.contributionsCollection;
+  const activeDays = contributions.contributionCalendar.weeks
+    .flatMap((week) => week.contributionDays)
+    .filter((day) => day.contributionCount > 0).length;
 
   return {
     repos: user.repositories.totalCount,
     contributedTo: contributions.totalRepositoriesWithContributedCommits,
     commits:
       contributions.totalCommitContributions + contributions.restrictedContributionsCount,
-    pullRequests: user.pullRequests.totalCount,
+    activeDays,
     languages,
   };
 }
@@ -171,9 +175,9 @@ function renderCard(stats, theme) {
   ];
   const items = [
     { value: stats.commits.toLocaleString('en-US'), label: 'Commits (past year)', highlight: true },
+    { value: stats.activeDays.toLocaleString('en-US'), label: 'Active days (past year)' },
     { value: stats.repos.toLocaleString('en-US'), label: 'Public repositories' },
     { value: stats.contributedTo.toLocaleString('en-US'), label: 'Repos contributed to' },
-    { value: stats.pullRequests.toLocaleString('en-US'), label: 'Pull requests' },
   ];
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="GitHub activity for ${escape(LOGIN)}" font-family="${FONT}">
