@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="221" viewBox="0 0 840 221" role="img" aria-label="GitHub activity for XING-76" font-family="-apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,Helvetica,Arial,sans-serif">
+  <rect x="0.5" y="0.5" width="839" height="220" rx="14" fill="#12161b" stroke="#272c33"/>
+  
+    <text x="32" y="59" text-anchor="start" fill="#4589ff" font-size="38" font-weight="600" letter-spacing="-1">928</text>
+    <text x="32" y="85" text-anchor="start" fill="#8b939e" font-size="12.5" letter-spacing="0.4">Commits (past year)</text>
+    <text x="300" y="59" text-anchor="start" fill="#f4f4f2" font-size="38" font-weight="600" letter-spacing="-1">25</text>
+    <text x="300" y="85" text-anchor="start" fill="#8b939e" font-size="12.5" letter-spacing="0.4">Public repositories</text>
+    <text x="560" y="59" text-anchor="start" fill="#f4f4f2" font-size="38" font-weight="600" letter-spacing="-1">4</text>
+    <text x="560" y="85" text-anchor="start" fill="#8b939e" font-size="12.5" letter-spacing="0.4">Repos contributed to</text>
+    <text x="808" y="59" text-anchor="end" fill="#f4f4f2" font-size="38" font-weight="600" letter-spacing="-1">0</text>
+    <text x="808" y="85" text-anchor="end" fill="#8b939e" font-size="12.5" letter-spacing="0.4">Pull requests</text>
+  <line x1="32" y1="115" x2="808" y2="115" stroke="#272c33"/>
+  <text x="32" y="137" fill="#8b939e" font-size="11.5" font-weight="600" letter-spacing="1.6">TOP LANGUAGES</text>
+  <rect x="32" y="149" width="776" height="10" rx="5" fill="#22272e"/><rect x="32.0" y="149" width="255.2" height="10" rx="5" fill="#4589ff"/><rect x="290.2" y="149" width="183.2" height="10" rx="5" fill="#c2c8d0"/><rect x="476.4" y="149" width="148.6" height="10" rx="5" fill="#8b939e"/><rect x="628.0" y="149" width="109.5" height="10" rx="5" fill="#5f6874"/><rect x="740.5" y="149" width="67.5" height="10" rx="5" fill="#3a424c"/>
+      <rect x="32" y="183" width="9" height="9" rx="3" fill="#4589ff"/>
+      <text x="48" y="191" fill="#8b939e" font-size="12.5">JavaScript 30.5%</text>
+      <rect x="168.4" y="183" width="9" height="9" rx="3" fill="#c2c8d0"/>
+      <text x="184.4" y="191" fill="#8b939e" font-size="12.5">TypeScript 21.9%</text>
+      <rect x="304.8" y="183" width="9" height="9" rx="3" fill="#8b939e"/>
+      <text x="320.8" y="191" fill="#8b939e" font-size="12.5">SCSS 17.8%</text>
+      <rect x="399.8" y="183" width="9" height="9" rx="3" fill="#5f6874"/>
+      <text x="415.8" y="191" fill="#8b939e" font-size="12.5">Vue 13.1%</text>
+      <rect x="487.9" y="183" width="9" height="9" rx="3" fill="#3a424c"/>
+      <text x="503.9" y="191" fill="#8b939e" font-size="12.5">CSS 8.1%</text>
+</svg>
