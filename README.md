@@ -1,46 +1,30 @@
-<h2 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆, 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝑮𝒊𝒕𝑯𝒖𝒃！</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/banner-dark.svg">
+  <img src="assets/brand/banner-light.svg" alt="Hsin-Ju Hsieh (Jack) — Software Engineer" width="100%">
+</picture>
 
-<p> 
-    <a href= "https://www.linkedin.com/in/hsin-ju-hsieh"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/hsin-ju-hsieh"/></a>
-    <a href= "mailto:jackjohnton789@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:jackjohnton789@gmail.com"/></a>
-</p>
+Front-end by trade: TypeScript, Vue and React, component libraries and build tooling.
+Working toward full stack — Python on PostgreSQL, containerised with Docker, and LLM agent
+workflows built with LangGraph.
 
-## 🌐 About Me
+[LinkedIn](https://www.linkedin.com/in/hsin-ju-hsieh) · [Email](mailto:jackjohnton789@gmail.com) · [LeetCode](https://leetcode.com/u/jackjohnton789/)
 
-- Name: Hsin-Ju Hsieh (Jack)
-- Role: Software Engineer | Front-End Developer
+---
 
-## 🛠 Tech Stack
+## GitHub
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typeScript)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vuedotjs)
-![Nuxt](https://img.shields.io/badge/-Nuxt-000000?style=flat&logo=nuxt)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindCss)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
-![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack)
-![Vite](https://img.shields.io/badge/-Vite-000000?style=flat&logo=vite)
-![Storybook](https://img.shields.io/badge/-Storybook-000000?style=flat&logo=storybook)
-![ESLint](https://img.shields.io/badge/-ESLint-000000?style=flat&logo=ESLint)
-![MUI](https://img.shields.io/badge/-MUI-000000?style=flat&logo=mui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=gitlab)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" alt="GitHub activity" width="100%">
+</picture>
 
-## GitHub Overview
+<sub>Rendered from the GitHub API by a workflow in this repo, so it never depends on a third-party service staying up.</sub>
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=XING-76&show_icons=true&theme=radical" alt="XING's GitHub Stats" width="60%" />
-</div>
+## Tech
 
-## LeetCode Stats
-
-<div align="left">
-  <img src="https://leetcard.jacoblin.cool/jackjohnton789?theme=dark&font=Abel" alt="LeetCode Stats" width="60%" />
-</div>
+<table>
+  <tr><td><b>Core</b></td><td>TypeScript · JavaScript · Vue 3 · React · Sass · Tailwind CSS · Vite</td></tr>
+  <tr><td><b>Working knowledge</b></td><td>Nuxt · Node.js · Redux Toolkit / Redux-Saga · Pinia · Storybook · Webpack · MUI · ESLint / Prettier</td></tr>
+  <tr><td><b>Familiar</b></td><td>Express · MongoDB · Bootstrap · Shell</td></tr>
+  <tr><td><b>Learning</b></td><td>Python · PostgreSQL · Docker · LangGraph · LLM agents</td></tr>
+</table>
