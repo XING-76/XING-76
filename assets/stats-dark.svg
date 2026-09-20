@@ -3,7 +3,7 @@
   
     <text x="32" y="59" text-anchor="start" fill="#4589ff" font-size="38" font-weight="600" letter-spacing="-1">974</text>
     <text x="32" y="85" text-anchor="start" fill="#8b939e" font-size="12.5" letter-spacing="0.4">Commits (past year)</text>
-    <text x="241" y="59" text-anchor="start" fill="#f4f4f2" font-size="38" font-weight="600" letter-spacing="-1">235</text>
+    <text x="241" y="59" text-anchor="start" fill="#f4f4f2" font-size="38" font-weight="600" letter-spacing="-1">230</text>
     <text x="241" y="85" text-anchor="start" fill="#8b939e" font-size="12.5" letter-spacing="0.4">Active days (past year)</text>
     <text x="475" y="59" text-anchor="start" fill="#f4f4f2" font-size="38" font-weight="600" letter-spacing="-1">25</text>
     <text x="475" y="85" text-anchor="start" fill="#8b939e" font-size="12.5" letter-spacing="0.4">Public repositories</text>
